@@ -15,4 +15,5 @@
 
 # Блок-схема
 
-![Блок-схема](Untitled Diagram.jpg)
+![блок-схема](Untitled Diagram.jpg)
+
