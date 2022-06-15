@@ -15,5 +15,5 @@
 
 # Блок-схема
 
-![блок-схема](Untitled Diagram.jpg)
+![Untitled Diagram](UntitledDiagram.jpg)
 
